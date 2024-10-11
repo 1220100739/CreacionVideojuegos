@@ -34,11 +34,13 @@
 
 ## Paquetes
 
-* Lección 1
-* Lección 2
-* Lección 3
+* [Prototipo 1](https://github.com/1220100739/CreacionVideojuegos/blob/main/Prototipo.exe)
+* [Prototipo 2]
+* [Prototipo 3]
 
 ## Capturas
+* [Prototipo 2](https://github.com/1220100739/CreacionVideojuegos/blob/main/Prototipo%202%7D.pdf)
+* [Prototipo 3](#)
 
 ## Planificación
 
